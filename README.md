@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++ and basic WinForms**
 
-- 📫 How to reach me **programmming.benja@gmail.com**
+- 📫 How to reach me **programming.benja@gmail.com**
 
 - ⚡ Fun fact **I like to make new friends**
 <h3 align="left">Connect with me:</h3>
