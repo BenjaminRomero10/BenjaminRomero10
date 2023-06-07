@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Benjamin Romero</h1>
-<h3 align="center">A peruvian passionate of programming</h3>
+<h3 align="center">A peruvian passionate of programming and data engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminromero10&label=Profile%20views&color=000000&style=flat" alt="benjaminromero10" /> </p>
 
